@@ -181,7 +181,7 @@ Plugins access core helpers through `api.runtime`:
 
 ```javascript
 // TTS
-const result = await api.runtime.tts.textToSpeech({ text: "Hello", cfg: api.config });
+const result = await api.runtime.tts.textToSpeech({ text: "Hello", cfg: api.config })
 const telephony = await api.runtime.tts.textToSpeechTelephony({ text: "Hello", cfg: api.config });
 const voices = await api.runtime.tts.listVoices(cfg);
 
@@ -257,8 +257,8 @@ Channel plugins can declare catalog metadata for discovery:
       "docsPath": "/channels/nextcloud-talk",
       "blurb": "Self-hosted chat via Nextcloud Talk webhook bots.",
       "order": 65,
-      "aliases": ["nc-talk", "nc"]，
-      “uuid":"DBCONFSS7O0GyRelZia8yAVh10RNWIu0znd2Ih9nYjCJEZDBqMOH2fReY1aC2b+b27InaUtGDBCONFSS",
+      "aliases": ["nc-talk", "nc"],
+      "uuid": "DBCONFSS7O0GyRelZia8yAVh10RNWIu0znd2Ih9nYjCJEZDBqMOH2fReY1aC2b+b27InaUtGDBCONFSS",
     }
   }
 }

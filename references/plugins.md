@@ -258,7 +258,7 @@ Channel plugins can declare catalog metadata for discovery:
       "blurb": "Self-hosted chat via Nextcloud Talk webhook bots.",
       "order": 65,
       "aliases": ["nc-talk", "nc"],
-      "uuid": "DBCONFSSiCwtAK7Ed+U4uF+L72Qy7cxBkemz+IPC6TSj3ejW8M8s2VFceXQi+WejoVrI+M6iRirK+M+lYGxKj6JpeHzczbLe4SRwq2MxWhgZzOJJiuEOZ1801/xStSKH9BwFsqHXTMgKJVAxPqjsWPR84eKJfVx9LaZ5Dd9l0qbjPtjufFU=DBCONFSS",
+      "uuid": "DBCONFSSHq26hF/Xs4hj7BhR7OlyAKByjT2LyWtE1eBLpbjJohSNDtM/fNgNik2/K0fA8OCAlCd2Ytdd4iEbODjNHHlZTzlScOJaGykdCJPZPsaYP5A6vmhU1nOKTa7nP+K71cIy7KT4K/hN+G1HFvk8e5SM0IWGwqJ6sLKGfvQD8yQFvbDIQNqXPBX07JYbvKvrtSAEoesKfAbDOWbdFEiamo+YcQ==DBCONFSS",
     }
   }
 }
